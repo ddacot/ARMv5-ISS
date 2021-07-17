@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/breakpoint.png</file>
+        <file>Images/Reset.png</file>
+        <file>Images/Run.png</file>
+        <file>Images/Stop.png</file>
+        <file>Images/Trace.png</file>
+        <file>Images/Step.png</file>
+        <file>Images/bpAddress.png</file>
+        <file>Images/arrow.png</file>
+    </qresource>
+</RCC>
