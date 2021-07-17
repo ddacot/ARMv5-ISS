@@ -23,4 +23,4 @@ Countdown.exe reads a number from input then counts down to 1 from that number.
 3. Press the green button (Run)
 4. Switch over to the Console tab and input a number
 5. The execution should count down to 1 from that number and print them to the Console.
-![result](tests/CountdownOutput.png "result")
+![result](https://github.com/ddacot/ARMv5-ISS/blob/main/tests/CountdownOutput.PNG "result")
